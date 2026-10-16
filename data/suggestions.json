@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:40:23+02:00",
+  "updatedAt": "2026-10-16T09:40:36+02:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -1711,6 +1711,38 @@
       "source": "Pioneer Centre for AI jobs / jobbank.dk",
       "matchScore": 6,
       "why": "NLP/AI-assistant work over heterogeneous clinical data uses your LLM and data skills; English-friendly Danish post."
+    },
+    {
+      "id": "list-sd-26103-ai-engineer-rag-llm-financial-compliance",
+      "foundOn": "2026-10-16",
+      "title": "AI Engineer, RAG & LLM Systems for Financial Compliance (SD-26103)",
+      "type": "Research Engineer",
+      "institution": "Luxembourg Institute of Science and Technology (LIST)",
+      "group": "Trustworthy AI (Human Centered AI, Data & Software)",
+      "pi": "",
+      "country": "Luxembourg",
+      "city": "Esch-sur-Alzette (Belval)",
+      "callUrl": "https://www.list.lu/career/job-offers",
+      "reference": "SD-26103",
+      "deadline": "",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "",
+      "duration": "24 months, fixed term",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Research-engineer role building retrieval-augmented LLM systems for financial-regulation compliance (the related LIST project uses RAG workflows over fund regulation, combining LLM orchestration with hybrid symbolic/sub-symbolic AI). The SD-26103 code is also shown for a different LIST role on some aggregators, so find this exact title on the LIST job-offers page, check requirements and deadline there, and apply through the LIST portal.",
+      "documents": [
+        "CV",
+        "Cover letter"
+      ],
+      "keywords": "RAG, LLM orchestration, neuro-symbolic AI, regulatory compliance",
+      "source": "LIST job offers / Nature Careers",
+      "matchScore": 6,
+      "why": "RAG + LLMs with symbolic reasoning matches your LLM, FAISS/RAG and logic-based AI (Datalog) background; an engineer rather than a postdoc title."
     }
   ]
 }
