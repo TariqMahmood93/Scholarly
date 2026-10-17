@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:40:36+02:00",
+  "updatedAt": "2026-10-17T09:39:39+02:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -155,69 +155,6 @@
       "source": "Open web (UNIMORE call)",
       "matchScore": 5,
       "why": "Entity resolution with LLMs plus explainability is exactly your core area (LM-based data management, ER, trustworthy AI), in your own IINF-05 sector in Italy."
-    },
-    {
-      "id": "unisa-di-2026-pd35-ai-simulation-complex-systems",
-      "foundOn": "2026-10-05",
-      "title": "Incarico post-doc: Progettazione e sviluppo di tecnologie di Intelligenza Artificiale e simulazione per l'analisi sicura e affidabile di sistemi complessi",
-      "type": "Postdoc",
-      "institution": "Università degli Studi di Salerno",
-      "group": "",
-      "pi": "",
-      "country": "Italy",
-      "city": "Fisciano (Salerno)",
-      "callUrl": "https://pica.cineca.it/unisa/",
-      "reference": "DI_2026_PD35",
-      "deadline": "2026-10-09",
-      "startDate": "",
-      "duration": "12 months",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://pica.cineca.it/unisa/",
-      "emailSubject": "",
-      "procedure": "Incarico post-doc, 12 months. Applications opened 28 Sep 2026 09:00 and close 9 Oct 2026 12:00 via PICA (Salerno). Open the call on PICA for the sector, requirements and documents.",
-      "documents": [
-        "CV"
-      ],
-      "keywords": "artificial intelligence, simulation, safety, reliability, complex systems",
-      "source": "PICA Cineca",
-      "matchScore": 3,
-      "why": "An Italian AI postdoc on safe and reliable AI fits your trustworthy-AI interests, but it is about simulation of complex systems rather than data quality or LLMs. The deadline is very soon.",
-      "deadlineTime": "12:00",
-      "deadlineTz": "Europe/Rome"
-    },
-    {
-      "id": "oxford-pdra-ml-agentic-safety-2026",
-      "foundOn": "2026-10-05",
-      "title": "Postdoctoral Research Assistant in Machine Learning (agentic AI safety, security and control)",
-      "type": "Postdoc",
-      "institution": "University of Oxford – Department of Engineering Science",
-      "group": "Torr Vision Group",
-      "pi": "",
-      "country": "United Kingdom",
-      "city": "Oxford",
-      "callUrl": "https://www.jobs.ac.uk/job/DSY967/postdoctoral-research-assistant-in-machine-learning",
-      "reference": "175965",
-      "deadline": "2026-10-09",
-      "startDate": "",
-      "duration": "Fixed-term to 30 June 2027",
-      "salary": "£39,424–£47,779 per annum",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://eng.ox.ac.uk/jobs/job-detail/?vacancyID=175965",
-      "emailSubject": "",
-      "procedure": "Online applications only, received before midday (UK) on 9 Oct 2026. Research on safety, security and control of agentic LLM systems (prompt injection, agent hijacking, adversarial robustness). Requires a PhD in CS/AI/Security and experience with LLMs or agents. Informal enquiries: adel.bibi@eng.ox.ac.uk.",
-      "documents": [
-        "CV",
-        "Cover letter"
-      ],
-      "keywords": "LLM agents, AI safety, adversarial robustness, prompt injection, AI security",
-      "source": "jobs.ac.uk",
-      "matchScore": 3,
-      "why": "Uses your LLM experience and your secondary AI-for-cybersecurity interest. The focus is on attacks and safety rather than data quality. The deadline is very soon.",
-      "deadlineTime": "12:00",
-      "deadlineTz": "Europe/London"
     },
     {
       "id": "oxford-schmidt-ai-in-science-postdoc-fellowship-2027",
@@ -469,37 +406,6 @@
       "source": "Bandi MUR",
       "matchScore": 4,
       "why": "Knowledge-enhanced LLMs that reason over incomplete, ambiguous or inconsistent information closely match your data-quality-for-LLMs and logic-based AI background, in IINF-05."
-    },
-    {
-      "id": "sssa-ir-graph-ml-socioeconomic-systems",
-      "foundOn": "2026-10-06",
-      "title": "Incarico di ricerca: Metodi Avanzati di Graph Machine Learning per Sistemi Socio-Economici Complessi",
-      "type": "Other",
-      "institution": "Scuola Superiore Sant'Anna, Pisa",
-      "group": "",
-      "pi": "",
-      "country": "Italy",
-      "city": "Pisa",
-      "callUrl": "https://bandi.mur.gov.it/incarichidiricerca.php/public/fellowship/id_fellow/317923",
-      "reference": "",
-      "deadline": "2026-10-09",
-      "deadlineTime": "",
-      "deadlineTz": "Europe/Rome",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://www.santannapisa.it/it/assegni-di-ricerca-e-selezioni-incarichi-esterni/dipartimento-di-eccellenza-lembeds-econo",
-      "emailSubject": "",
-      "procedure": "Research assignment, GSD INFO-01/A. AI methods for complex structured data with a focus on graphs: methodological improvements to GNNs based on network science and structural properties. See the applyUrl page for the call. Incarichi di ricerca (art. 22-ter L. 240/2010) are a junior contract type: check in the call that PhD holders are eligible.",
-      "documents": [
-        "CV"
-      ],
-      "keywords": "graph neural networks, network science, structured data, socio-economic systems",
-      "source": "Bandi MUR",
-      "matchScore": 3,
-      "why": "GNN methods for complex structured data use your graph ML experience; the socio-economic application is outside your data-quality focus."
     },
     {
       "id": "bocconi-ir-bidsa-personae-nlp",
@@ -1743,6 +1649,39 @@
       "source": "LIST job offers / Nature Careers",
       "matchScore": 6,
       "why": "RAG + LLMs with symbolic reasoning matches your LLM, FAISS/RAG and logic-based AI (Datalog) background; an engineer rather than a postdoc title."
+    },
+    {
+      "id": "inria-2026-10611-ockham-resource-efficient-learning",
+      "foundOn": "2026-10-17",
+      "title": "Post-Doctoral Research Visit: Foundations of resource-efficient large-scale learning",
+      "type": "Postdoc",
+      "institution": "Inria – Centre at the University of Lyon",
+      "group": "OCKHAM project-team",
+      "pi": "",
+      "country": "France",
+      "city": "Lyon",
+      "callUrl": "https://jobs.inria.fr/public/classic/en/offres/2026-10611",
+      "reference": "2026-10611",
+      "deadline": "2026-11-14",
+      "deadlineTime": "",
+      "deadlineTz": "Europe/Paris",
+      "startDate": "",
+      "duration": "",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Postdoc in the OCKHAM team on the foundations of resource-efficient (frugal) large-scale machine learning. Duties, duration and salary were not visible in search results; read the full offer and apply online via the Inria page before 14 Nov 2026. Inria post-doctoral research visits usually require a PhD defended within the last 3 years and a host different from the PhD institution.",
+      "documents": [
+        "CV",
+        "Cover letter",
+        "Publication list"
+      ],
+      "keywords": "efficient ML, frugal AI, large-scale learning, Green AI",
+      "source": "Inria jobs",
+      "matchScore": 6,
+      "why": "Resource-efficient large-scale learning matches your Green AI / energy-cost-of-ML research line at a top French lab."
     }
   ]
 }
