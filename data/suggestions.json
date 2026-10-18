@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T09:39:39+02:00",
+  "updatedAt": "2026-10-18T09:34:16+02:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -499,38 +499,6 @@
       "source": "Bandi MUR",
       "matchScore": 3,
       "why": "LLM research at Sapienza; long-context reasoning is LLM-core but not data-quality specific."
-    },
-    {
-      "id": "vu-postdoc-neurosymbolic-multimodal-world-models-2026",
-      "foundOn": "2026-10-06",
-      "title": "Postdoc Neurosymbolic Reasoning in Multimodal World Models",
-      "type": "Postdoc",
-      "institution": "Vrije Universiteit Amsterdam – Faculty of Science (Learning & Reasoning)",
-      "group": "",
-      "pi": "Dr. Filip Ilievski",
-      "country": "Netherlands",
-      "city": "Amsterdam",
-      "callUrl": "https://workingat.vu.nl/vacancies/postdoc-neurosymbolic-reasoning-in-multimodal-world-models-amsterdam-1334226",
-      "reference": "",
-      "deadline": "2026-10-10",
-      "deadlineTime": "",
-      "deadlineTz": "Europe/Amsterdam",
-      "startDate": "",
-      "duration": "2 years",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://workingat.vu.nl/vacancies/postdoc-neurosymbolic-reasoning-in-multimodal-world-models-amsterdam-1334226",
-      "emailSubject": "",
-      "procedure": "2-year fully funded postdoc on the NWO AiNed project 'Human-centric AI with common sense'; co-supervised by Dr. Filip Ilievski, Dr. Emile van Krieken (VU) and Prof. Cees Snoek (UvA). Learn explicit abstractions to make multimodal world models more robust and grounded; includes co-supervising PhD students. Apply via the VU vacancy page by 10 Oct 2026.",
-      "documents": [
-        "CV",
-        "Cover letter"
-      ],
-      "keywords": "neurosymbolic AI, multimodal world models, commonsense reasoning, abstraction",
-      "source": "ELLIS",
-      "matchScore": 3,
-      "why": "Neurosymbolic (logic + learning) research fits your logic-based AI and LLM background; the vision/world-model side is newer for you."
     },
     {
       "id": "inria-tyrex-postdoc-neurosymbolic-relational-gnn-2026",
@@ -1682,6 +1650,72 @@
       "source": "Inria jobs",
       "matchScore": 6,
       "why": "Resource-efficient large-scale learning matches your Green AI / energy-cost-of-ML research line at a top French lab."
+    },
+    {
+      "id": "unibs-ipd-outreach-ai-biomedical-data-integration-2026",
+      "foundOn": "2026-10-18",
+      "title": "Incarico post-doc: Metodi e sistemi di IA per l'integrazione, l'analisi e la gestione intelligente di dati biomedici (progetto OUTREACH)",
+      "type": "Postdoc",
+      "institution": "Università degli Studi di Brescia",
+      "group": "",
+      "pi": "",
+      "country": "Italy",
+      "city": "Brescia",
+      "callUrl": "https://bandi.mur.gov.it/incarichipostdoc.php/public/fellowship/id_fellow/318779",
+      "reference": "",
+      "deadline": "2026-11-05",
+      "deadlineTime": "14:00",
+      "deadlineTz": "Europe/Rome",
+      "startDate": "",
+      "duration": "",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "https://www.unibs.it/it/ateneo/amministrazione/concorsi/bandi-il-conferimento-di-incarichi-post-doc",
+      "emailSubject": "",
+      "procedure": "Incarico post-doc (art. 22-bis L. 240/2010), GSD IINF-05/A, OUTREACH project (Hospital-University-Territory network): methods and software for integrating, organising and querying heterogeneous biomedical, clinical, social and territorial databases, plus AI/ML/data-mining algorithms on them. Read the bando on the UniBS post-doc page and apply as instructed before 5 Nov 2026, 14:00.",
+      "documents": [
+        "CV",
+        "PhD certificate",
+        "Publication list",
+        "Documents listed in the bando"
+      ],
+      "keywords": "data integration, heterogeneous databases, machine learning, data mining, IINF-05/A",
+      "source": "Bandi MUR",
+      "matchScore": 8,
+      "why": "Integration and querying of heterogeneous databases plus ML is exactly your data-management-meets-ML profile, in IINF-05/A."
+    },
+    {
+      "id": "inail-ai-agents-occupational-safety-llm-rag-2026",
+      "foundOn": "2026-10-18",
+      "title": "AI Agents for Occupational Safety: Training for Injury Prevention, Internal Communication and Marketing",
+      "type": "Other",
+      "institution": "Inail (Italian National Institute for Insurance against Accidents at Work)",
+      "group": "",
+      "pi": "",
+      "country": "Italy",
+      "city": "Rome",
+      "callUrl": "https://euraxess.ec.europa.eu/jobs/473253",
+      "reference": "",
+      "deadline": "2026-11-16",
+      "deadlineTime": "13:00",
+      "deadlineTz": "Europe/Brussels",
+      "startDate": "",
+      "duration": "",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Design, build and test conversational AI agents on open-source European LLMs with advanced RAG over layered regulatory datasets (Legislative Decree 81/2008, EU directives, sector protocols) for personalised injury-prevention training and safety communication. EURAXESS lists it for R1-R4 under business economics, so check the contract type and requirements in the full call (likely linked to the Inail-UniMC \"Sicura AI\" BRIC project); Italian may be useful for the regulatory corpus.",
+      "documents": [
+        "CV",
+        "Publication list"
+      ],
+      "keywords": "LLM agents, RAG, regulatory knowledge, conversational AI",
+      "source": "EURAXESS",
+      "matchScore": 6,
+      "why": "LLM + RAG agents over structured regulatory knowledge fits your LLM/RAG skills; contract type and language needs to be checked."
     }
   ]
 }
