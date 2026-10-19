@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T09:34:16+02:00",
+  "updatedAt": "2026-10-19T09:34:53+02:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -375,37 +375,6 @@
       "source": "Bandi MUR",
       "matchScore": 4,
       "why": "AI, LLMs and anomaly detection for cybersecurity and compliance, matching your core and secondary interests, and located in Rende next to your current lab."
-    },
-    {
-      "id": "unibo-ir-multimodal-knowledge-enhanced-llm",
-      "foundOn": "2026-10-06",
-      "title": "Incarico di ricerca: Advancing Multimodal Knowledge-Enhanced Large Language Models – Novel Methods and Innovative Applications",
-      "type": "Other",
-      "institution": "Università di Bologna",
-      "group": "",
-      "pi": "",
-      "country": "Italy",
-      "city": "Bologna",
-      "callUrl": "https://bandi.mur.gov.it/incarichidiricerca.php/public/fellowship/id_fellow/317842",
-      "reference": "",
-      "deadline": "2026-10-11",
-      "deadlineTime": "",
-      "deadlineTz": "Europe/Rome",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://bandi.unibo.it/ricerca/incarichi-di-ricerca",
-      "emailSubject": "",
-      "procedure": "Research assignment, GSD IINF-05/A. Methods for multimodal knowledge-enhanced LLMs to improve reasoning on complex decision problems from incomplete, ambiguous or inconsistent information, via dialogue with the user and revision of an external knowledge base. Apply via bandi.unibo.it. Incarichi di ricerca (art. 22-ter L. 240/2010) are a junior contract type: check in the call that PhD holders are eligible.",
-      "documents": [
-        "CV"
-      ],
-      "keywords": "knowledge-enhanced LLMs, multimodal, reasoning, incomplete and inconsistent information",
-      "source": "Bandi MUR",
-      "matchScore": 4,
-      "why": "Knowledge-enhanced LLMs that reason over incomplete, ambiguous or inconsistent information closely match your data-quality-for-LLMs and logic-based AI background, in IINF-05."
     },
     {
       "id": "bocconi-ir-bidsa-personae-nlp",
@@ -1716,6 +1685,77 @@
       "source": "EURAXESS",
       "matchScore": 6,
       "why": "LLM + RAG agents over structured regulatory knowledge fits your LLM/RAG skills; contract type and language needs to be checked."
+    },
+    {
+      "id": "cispa-cristal-lab-postdoc-trustworthy-ai-llm-alignment",
+      "foundOn": "2026-10-19",
+      "title": "PhD & Postdoc Positions in Trustworthy AI (LLM alignment, AI safety, benchmarking) – CRISTAL Lab",
+      "type": "Postdoc",
+      "institution": "CISPA Helmholtz Center for Information Security",
+      "group": "CRISTAL Lab",
+      "pi": "Cristina Gârbacea",
+      "country": "Germany",
+      "city": "Saarbrücken",
+      "callUrl": "https://career.cispa.de/jobs/cristal-lab-26-146",
+      "reference": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "",
+      "duration": "",
+      "salary": "TVöD E13 (postdoc)",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "https://career.cispa.de/jobs/apply/146",
+      "emailSubject": "",
+      "procedure": "Fully funded postdoc positions on LLM alignment, AI safety, agentic AI and benchmarking/evaluation of foundation models; English-speaking environment. Sources disagree on timing: an aggregator lists 15 Dec 2026, while the CISPA posting describes rolling review with flexible 2026-2027 starts (priority review through 15 Dec 2026). Apply via the CISPA career portal (job 146) well before mid-December.",
+      "documents": [
+        "CV",
+        "Cover letter",
+        "Publication list",
+        "References"
+      ],
+      "keywords": "trustworthy AI, LLM alignment, evaluation, AI safety",
+      "source": "CISPA careers / ApplyKite",
+      "matchScore": 6,
+      "why": "Trustworthy-AI and LLM evaluation work in a well-funded English-speaking centre; aligns with your trustworthy/fair AI and LLM experience."
+    },
+    {
+      "id": "humboldt-research-fellowship-call-nov-2026",
+      "foundOn": "2026-10-19",
+      "title": "Humboldt Research Fellowship for Postdocs (call opening 15 Nov 2026)",
+      "type": "Fellowship",
+      "institution": "Alexander von Humboldt Foundation (host: any research institution in Germany)",
+      "group": "",
+      "pi": "",
+      "country": "Germany",
+      "city": "",
+      "callUrl": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+      "reference": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "",
+      "duration": "6-24 months (postdocs)",
+      "salary": "3,000 EUR/month fellowship (postdoc rate, per 2026 programme information) plus allowances",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Next call opens 15 Nov 2026 and closes once it reaches 800 applications, so apply early; it feeds the July 2027 selection meeting (earliest start Sept 2027). Requires a PhD within the last 4 years, a host in Germany who uploads a statement, a research outline (max 5 pages), CV (max 2 pages), publication list and two expert reviews. You must not have lived in Germany >90 days in the 18 months before applying.",
+      "documents": [
+        "CV (max 2 pages)",
+        "Research outline (max 5 pages)",
+        "Publication list",
+        "Key publications",
+        "PhD certificate",
+        "Two expert reviews",
+        "Host statement"
+      ],
+      "keywords": "fellowship, Germany, independent research project",
+      "source": "Humboldt Foundation",
+      "matchScore": 6,
+      "why": "Prestigious, field-open fellowship you are eligible for (PhD 2024); lets you design your own data-quality/LLM project with a German host such as a DB or NLP group."
     }
   ]
 }
