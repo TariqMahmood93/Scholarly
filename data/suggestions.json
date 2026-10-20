@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:34:53+02:00",
+  "updatedAt": "2026-10-20T09:35:56+02:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -1756,6 +1756,73 @@
       "source": "Humboldt Foundation",
       "matchScore": 6,
       "why": "Prestigious, field-open fellowship you are eligible for (PhD 2024); lets you design your own data-quality/LLM project with a German host such as a DB or NLP group."
+    },
+    {
+      "id": "sheffield-ra-ml-nlp-2026-nov",
+      "foundOn": "2026-10-20",
+      "title": "Research Associate in Machine Learning and Natural Language Processing",
+      "type": "Research Fellow",
+      "institution": "University of Sheffield – School of Computer Science",
+      "group": "",
+      "pi": "",
+      "country": "United Kingdom",
+      "city": "Sheffield (hybrid)",
+      "callUrl": "https://www.jobs.ac.uk/job/DTI230/research-associate-in-machine-learning-and-natural-language-processing",
+      "reference": "",
+      "deadline": "2026-11-08",
+      "deadlineTime": "",
+      "deadlineTz": "Europe/London",
+      "startDate": "",
+      "duration": "",
+      "salary": "£39,560 to £43,099",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Research Associate post in ML and NLP in the Sheffield NLP group (earlier adverts for this role covered NLP/ML for computational social science on EU projects such as online disinformation). Read the full advert on jobs.ac.uk and apply through the University of Sheffield jobs portal before 8 Nov 2026.",
+      "documents": [
+        "CV",
+        "Cover letter / supporting statement",
+        "Publication list"
+      ],
+      "keywords": "NLP, machine learning, LLMs, disinformation",
+      "source": "jobs.ac.uk",
+      "matchScore": 6,
+      "why": "Postdoc-level NLP/ML post in a strong UK NLP group; uses your NLP and LLM skills, UK is in your target countries."
+    },
+    {
+      "id": "oxford-postdoc-ai-safety-mental-health-2026",
+      "foundOn": "2026-10-20",
+      "title": "Postdoctoral Researcher: AI Safety in Mental Health",
+      "type": "Postdoc",
+      "institution": "University of Oxford – Department of Psychiatry",
+      "group": "",
+      "pi": "",
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "callUrl": "https://www.jobs.ac.uk/job/DTE954/postdoctoral-researcher-ai-safety-in-mental-health",
+      "reference": "",
+      "deadline": "2026-11-04",
+      "deadlineTime": "12:00",
+      "deadlineTz": "Europe/London",
+      "startDate": "",
+      "duration": "",
+      "salary": "£39,424 to £47,779 per annum (Grade 7)",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Postdoc on safety evaluation of LLM-based tools in mental health: validating automated (LLM) evaluations against human ratings; LLM fine-tuning experience is desirable. Apply through the Oxford recruitment portal linked from jobs.ac.uk by midday on 4 Nov 2026.",
+      "documents": [
+        "CV",
+        "Supporting statement",
+        "Publication list",
+        "Referees"
+      ],
+      "keywords": "LLM evaluation, AI safety, trustworthy AI, fine-tuning",
+      "source": "jobs.ac.uk",
+      "matchScore": 5,
+      "why": "LLM evaluation and safety work matches your trustworthy-AI and LLM fine-tuning experience; applied in the health domain."
     }
   ]
 }
