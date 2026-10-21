@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T09:35:56+02:00",
+  "updatedAt": "2026-10-21T09:35:21+02:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -1025,39 +1025,6 @@
       "source": "Bandi MUR",
       "matchScore": 3,
       "why": "Natural-language-driven AI over complex data with a responsible-AI angle overlaps your LLM and trustworthy-AI work; the cloud-ops domain is new."
-    },
-    {
-      "id": "mpg-postdoc-program-autumn-2026",
-      "foundOn": "2026-10-11",
-      "title": "Max Planck Postdoc Program – autumn 2026 call (incl. MPI-SWS NLP & behavioral evaluation postdoc)",
-      "type": "Research Fellow",
-      "institution": "Max Planck Society (various institutes, e.g. MPI for Software Systems)",
-      "group": "",
-      "pi": "",
-      "country": "Germany",
-      "city": "",
-      "callUrl": "https://www.mpg.de/en/max-planck-postdoc-program",
-      "reference": "",
-      "deadline": "2026-10-13",
-      "deadlineTime": "12:00",
-      "deadlineTz": "Europe/Berlin",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://postdocprogram.mpg.de/all-postdoc-positions",
-      "emailSubject": "",
-      "procedure": "Central call running 1 Sep – 13 Oct 2026 (12:00 CEST) on the Max Planck Postdoc Program platform; apply to the listed postdoc positions there. Relevant listing: MPI-SWS (Saarbrücken, Dr. Mariya Toneva) postdoc in NLP & behavioral evaluation of long-range language understanding (ERC BrainAlign). Check the platform for other CS/AI positions in this call.",
-      "documents": [
-        "CV",
-        "Research statement / proposal",
-        "Reference letters"
-      ],
-      "keywords": "Max Planck, NLP, LLM evaluation, computer science",
-      "source": "Max Planck Society",
-      "matchScore": 3,
-      "why": "A prestigious German postdoc route with an LLM-evaluation position open; the deadline is in two days."
     },
     {
       "id": "wuerzburg-wunlp-postdoc-llm-posttraining-modular",
