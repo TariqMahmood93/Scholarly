@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T09:34:55+02:00",
+  "updatedAt": "2026-10-24T09:34:17+02:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -125,68 +125,6 @@
       "source": "ELLIS",
       "matchScore": 4,
       "why": "Trustworthy ML with fairness and robustness plus the symbolic-AI/logic + ML interface matches your fairness-aware imputation and logic-based data management work; a strong publication record is expected."
-    },
-    {
-      "id": "unimore-ir-2026-078-explainable-er-llm",
-      "foundOn": "2026-10-05",
-      "title": "Incarico di Ricerca: Entity Resolution Spiegabile con LLM (Explainable Entity Resolution with LLMs)",
-      "type": "Other",
-      "institution": "Università di Modena e Reggio Emilia (UNIMORE) – Dipartimento di Ingegneria \"Enzo Ferrari\"",
-      "group": "",
-      "pi": "Prof. Francesco Guerra",
-      "country": "Italy",
-      "city": "Modena",
-      "callUrl": "https://www.unimore.it/sites/default/files/2026-10/Bando%20IR%20-%20GUERRA%20-%20IR-2026-078%20solo%20titoli.pdf",
-      "reference": "IR-2026-078",
-      "deadline": "2026-10-16",
-      "startDate": "",
-      "duration": "12 months",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://pica.cineca.it/unimore/",
-      "emailSubject": "",
-      "procedure": "Research assignment (art. 22-ter L. 240/2010), selection by titles only, GSD 09/IINF-05. Develop explainable-AI methods for LLM-based entity resolution: attribution models for records, their interactions and semantic information in clustering decisions; evaluate fidelity, interpretability, efficiency and scalability. Apply only via PICA (pica.cineca.it/unimore). Deadline 16 Oct 2026 per the Bandi MUR listing (https://bandi.mur.gov.it/incarichidiricerca.php/public/fellowship/id_fellow/318252); closing time not confirmed. Check eligibility, because 22-ter research assignments are a junior contract type.",
-      "documents": [
-        "CV",
-        "Publication list"
-      ],
-      "keywords": "entity resolution, large language models, explainable AI, attribution, clustering",
-      "source": "Open web (UNIMORE call)",
-      "matchScore": 5,
-      "why": "Entity resolution with LLMs plus explainability is exactly your core area (LM-based data management, ER, trustworthy AI), in your own IINF-05 sector in Italy."
-    },
-    {
-      "id": "oxford-schmidt-ai-in-science-postdoc-fellowship-2027",
-      "foundOn": "2026-10-05",
-      "title": "Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship (Round 5)",
-      "type": "Research Fellow",
-      "institution": "University of Oxford – MPLS Division",
-      "group": "",
-      "pi": "",
-      "country": "United Kingdom",
-      "city": "Oxford",
-      "callUrl": "https://www.mpls.ox.ac.uk/research-funding/internal-research-funding/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship-program",
-      "reference": "",
-      "deadline": "2026-10-16",
-      "startDate": "From April 2027",
-      "duration": "2 years",
-      "salary": "Grade 7",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://saiis.web.ox.ac.uk/how-apply",
-      "emailSubject": "",
-      "procedure": "Up to 13 two-year fellowships to apply AI/ML to STEM research. Submit via IRAMS by 12:00 noon, 16 Oct 2026. Covers salary, research and travel costs, computing equipment and visa/NHS surcharge, plus AI/ML training and software-engineering support. See the How to apply page for the proposal and host requirements.",
-      "documents": [
-        "CV",
-        "Research statement / proposal"
-      ],
-      "keywords": "AI for science, machine learning, fellowship",
-      "source": "Open web (Oxford MPLS)",
-      "matchScore": 3,
-      "why": "A prestigious independent fellowship for early-career AI researchers. You would need to frame your data-quality and LLM methods around a STEM application and find an Oxford host quickly.",
-      "deadlineTime": "12:00",
-      "deadlineTz": "Europe/London"
     },
     {
       "id": "kuleuven-postdoc-nlp-asr-llm-2026",
@@ -1804,6 +1742,35 @@
       "source": "AcademicPositions (Luxembourg rotation)",
       "matchScore": 60,
       "why": "Postdoc-level NLP and information extraction from regulatory/legal documents to automate compliance checks; matches the NLP and data-extraction profile."
+    },
+    {
+      "id": "kcl-ra-ai-evidence-synthesis-metius-2026",
+      "foundOn": "2026-10-24",
+      "title": "Research Associate in AI and Evidence Synthesis (METIUS)",
+      "type": "Postdoc",
+      "institution": "King's College London",
+      "group": "Department of Primary Care & Data Science",
+      "pi": "Iain Marshall",
+      "country": "United Kingdom",
+      "city": "London",
+      "callUrl": "https://www.kcl.ac.uk/jobs/161425-research-associate-in-ai-and-evidence-synthesis",
+      "reference": "",
+      "deadline": "2026-11-06",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "",
+      "duration": "2 years (fixed term)",
+      "salary": "GBP 45,031-52,514 incl. London Weighting",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "https://www.kcl.ac.uk/jobs/161425-research-associate-in-ai-and-evidence-synthesis",
+      "emailSubject": "",
+      "procedure": "Apply through the King's College London jobs portal. Full-time, 35 hours/week. Check the advert for required documents and closing time.",
+      "documents": [],
+      "keywords": "AI-enabled evidence synthesis, data extraction, Python, health data science, living systematic reviews",
+      "source": "KCL jobs (UK rotation)",
+      "matchScore": 65,
+      "why": "Post-doctoral role building AI tools for living evidence synthesis (METIUS work package co-led by KCL and UCL); fits the LLM and data-extraction profile, with a health-research slant."
     }
   ]
 }
