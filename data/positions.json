@@ -1,15 +1,15 @@
 {
-"updatedAt": "2026-10-24T11:38:51+00:00",
+"updatedAt": "2026-10-25T12:47:26+00:00",
 "sources": {
 "Bandi MUR": {
 "ok": true,
 "count": 0,
-"checkedAt": "2026-10-24T11:37:41+00:00"
+"checkedAt": "2026-10-25T12:46:11+00:00"
 },
 "jobs.ac.uk": {
 "ok": true,
-"count": 274,
-"checkedAt": "2026-10-24T11:38:45+00:00"
+"count": 273,
+"checkedAt": "2026-10-25T12:47:20+00:00"
 },
 "EURAXESS": {
 "ok": false,
@@ -19,7 +19,7 @@
 }
 },
 "counts": {
-"total": 438,
+"total": 436,
 "relevant": 43
 },
 "positions": [
@@ -1190,78 +1190,6 @@
 "relevant": true
 },
 {
-"id": "jac-DSS256",
-"source": "jobs.ac.uk",
-"kind": "",
-"type": "Other",
-"title": "Faculty Position in Digital Marketing (Associate Professor or Above)",
-"titleAlt": "",
-"institution": "Xi'an Jiaotong - Liverpool University",
-"country": "United Kingdom",
-"city": "Suzhou",
-"deadline": "2026-10-24",
-"deadlineTime": "",
-"deadlineTz": "Europe/London",
-"url": "https://www.jobs.ac.uk/job/DSS256/faculty-position-in-digital-marketing-associate-professor-or-above",
-"applyUrl": "",
-"field": "XJTLU Entrepreneur College (Taicang Campus) - School of Intelligent Finance and Business",
-"summary": "",
-"salary": "Competitive salary in the market",
-"duration": "",
-"score": 0,
-"matched": [],
-"firstSeen": "2026-10-04",
-"relevant": false
-},
-{
-"id": "jac-DTF568",
-"source": "jobs.ac.uk",
-"kind": "",
-"type": "Postdoc",
-"title": "Research Assistant/Associate in Climate Compatible Growth x 2 (Fixed Term)",
-"titleAlt": "",
-"institution": "University of Cambridge",
-"country": "United Kingdom",
-"city": "Cambridge",
-"deadline": "2026-10-24",
-"deadlineTime": "",
-"deadlineTz": "Europe/London",
-"url": "https://www.jobs.ac.uk/job/DTF568/research-assistant-associate-in-climate-compatible-growth-x-2-fixed-term",
-"applyUrl": "",
-"field": "Department of Engineering",
-"summary": "",
-"salary": "Research Assistant: £33,002 - £35,608 Research Associate: £37,694- £46,049",
-"duration": "",
-"score": 0,
-"matched": [],
-"firstSeen": "2026-10-10",
-"relevant": false
-},
-{
-"id": "eux-472007",
-"source": "EURAXESS",
-"kind": "Recognised Researcher (R2)\n Leading Researcher (R4)\n First Stage Researcher (R1)\n Established Researcher (R3)",
-"type": "Postdoc",
-"title": "Integrating Participatory Approaches and Hydrological Modelling for Water Resources Management",
-"titleAlt": "",
-"institution": "CNR - Istituto di Ricerca Sulle Acque",
-"country": "Italy",
-"city": "BARI",
-"deadline": "2026-10-24",
-"deadlineTime": "18:00",
-"deadlineTz": "Europe/Brussels",
-"url": "https://euraxess.ec.europa.eu/jobs/472007",
-"applyUrl": "",
-"field": "Engineering",
-"summary": "The activity will contribute to the development and application of hydrological models to support the analysis and sustainable management of water resources, also considering the impacts of climate change. In particular, the research will explore innovative approaches for integrating hydrological modelling with participatory processes, involving stakeholders and relevant actors in the identification of problems, scenarios, and management strategies. Particular attention will be devoted to the co-design of decision-support tools capable of integrating scientific and local knowledge. The…",
-"salary": "",
-"duration": "To be defined",
-"score": 0,
-"matched": [],
-"firstSeen": "2026-10-12",
-"relevant": false
-},
-{
 "id": "jac-DTF429",
 "source": "jobs.ac.uk",
 "kind": "",
@@ -2154,6 +2082,30 @@
 "relevant": false
 },
 {
+"id": "jac-DTB357",
+"source": "jobs.ac.uk",
+"kind": "",
+"type": "Research Fellow",
+"title": "(Senior) Research Fellow in Software Development",
+"titleAlt": "",
+"institution": "UCL",
+"country": "United Kingdom",
+"city": "London",
+"deadline": "2026-10-28",
+"deadlineTime": "",
+"deadlineTz": "Europe/London",
+"url": "https://www.jobs.ac.uk/job/DTB357/senior-research-fellow-in-software-development",
+"applyUrl": "",
+"field": "Professor Jasmin Fisher’s laboratory / Cancer Institute.",
+"summary": "",
+"salary": "Grade 6b - 8",
+"duration": "",
+"score": 0,
+"matched": [],
+"firstSeen": "2026-10-04",
+"relevant": false
+},
+{
 "id": "jac-DTB354",
 "source": "jobs.ac.uk",
 "kind": "",
@@ -2176,30 +2128,6 @@
 "matched": [
 "artificial intelligence"
 ],
-"firstSeen": "2026-10-04",
-"relevant": false
-},
-{
-"id": "jac-DTB357",
-"source": "jobs.ac.uk",
-"kind": "",
-"type": "Research Fellow",
-"title": "(Senior) Research Fellow in Software Development",
-"titleAlt": "",
-"institution": "UCL",
-"country": "United Kingdom",
-"city": "London",
-"deadline": "2026-10-28",
-"deadlineTime": "",
-"deadlineTz": "Europe/London",
-"url": "https://www.jobs.ac.uk/job/DTB357/senior-research-fellow-in-software-development",
-"applyUrl": "",
-"field": "Professor Jasmin Fisher’s laboratory / Cancer Institute.",
-"summary": "",
-"salary": "Grade 6b - 8",
-"duration": "",
-"score": 0,
-"matched": [],
 "firstSeen": "2026-10-04",
 "relevant": false
 },
@@ -2938,32 +2866,6 @@
 "relevant": false
 },
 {
-"id": "jac-DTD916",
-"source": "jobs.ac.uk",
-"kind": "",
-"type": "Researcher / Research Scientist",
-"title": "Researcher in Theology and AI Science",
-"titleAlt": "",
-"institution": "University of Oxford",
-"country": "United Kingdom",
-"city": "Oxford",
-"deadline": "2026-10-30",
-"deadlineTime": "",
-"deadlineTz": "Europe/London",
-"url": "https://www.jobs.ac.uk/job/DTD916/researcher-in-theology-and-ai-science",
-"applyUrl": "",
-"field": "Faculty of Theology and Religion",
-"summary": "",
-"salary": "£39,424 to £41,336\n per annum: Grade 7, point 1-3",
-"duration": "",
-"score": 2,
-"matched": [
-"ai"
-],
-"firstSeen": "2026-10-04",
-"relevant": false
-},
-{
 "id": "jac-DTD919",
 "source": "jobs.ac.uk",
 "kind": "",
@@ -2981,6 +2883,32 @@
 "field": "Political Theology and AI Science - Faculty of Theology and Religion",
 "summary": "",
 "salary": "£39,424 to £41,336\n per annum (pro-rata: £19,712 - £20,668) Grade 7, point 1-3",
+"duration": "",
+"score": 2,
+"matched": [
+"ai"
+],
+"firstSeen": "2026-10-04",
+"relevant": false
+},
+{
+"id": "jac-DTD916",
+"source": "jobs.ac.uk",
+"kind": "",
+"type": "Researcher / Research Scientist",
+"title": "Researcher in Theology and AI Science",
+"titleAlt": "",
+"institution": "University of Oxford",
+"country": "United Kingdom",
+"city": "Oxford",
+"deadline": "2026-10-30",
+"deadlineTime": "",
+"deadlineTz": "Europe/London",
+"url": "https://www.jobs.ac.uk/job/DTD916/researcher-in-theology-and-ai-science",
+"applyUrl": "",
+"field": "Faculty of Theology and Religion",
+"summary": "",
+"salary": "£39,424 to £41,336\n per annum: Grade 7, point 1-3",
 "duration": "",
 "score": 2,
 "matched": [
@@ -10639,6 +10567,30 @@
 "score": 0,
 "matched": [],
 "firstSeen": "2026-10-23",
+"relevant": false
+},
+{
+"id": "jac-DTK061",
+"source": "jobs.ac.uk",
+"kind": "",
+"type": "Other",
+"title": "Faculty Position in Digital Marketing (Associate Professor or Above)",
+"titleAlt": "",
+"institution": "Xi'an Jiaotong - Liverpool University",
+"country": "United Kingdom",
+"city": "Suzhou",
+"deadline": "2026-12-24",
+"deadlineTime": "",
+"deadlineTz": "Europe/London",
+"url": "https://www.jobs.ac.uk/job/DTK061/faculty-position-in-digital-marketing-associate-professor-or-above",
+"applyUrl": "",
+"field": "XJTLU Entrepreneur College (Taicang Campus) - School of Intelligent Finance and Business",
+"summary": "",
+"salary": "Competitive salary in the market",
+"duration": "",
+"score": 0,
+"matched": [],
+"firstSeen": "2026-10-25",
 "relevant": false
 },
 {
