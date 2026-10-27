@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T09:35:12+01:00",
+  "updatedAt": "2026-10-27T09:34:09+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -251,37 +251,6 @@
       "source": "Bandi MUR",
       "matchScore": 4,
       "why": "Missing-modality handling and synthetic data with transformer-based generative models matches your imputation work, in your IINF-05 sector, but applied to clinical lung-cancer data."
-    },
-    {
-      "id": "polimi-idr-deib-57-topic-modeling-data-management",
-      "foundOn": "2026-10-06",
-      "title": "Incarico di ricerca: Tecniche di Topic Modeling e Gestione dei Dati per l'Organizzazione e l'Esplorazione della Conoscenza (2026_IDR_DEIB_57)",
-      "type": "Other",
-      "institution": "Politecnico di Milano – DEIB",
-      "group": "",
-      "pi": "",
-      "country": "Italy",
-      "city": "Milan",
-      "callUrl": "https://bandi.mur.gov.it/incarichidiricerca.php/public/fellowship/id_fellow/316592",
-      "reference": "",
-      "deadline": "2026-10-19",
-      "deadlineTime": "",
-      "deadlineTz": "Europe/Rome",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://www.polimi.it/en/bandi-incarichidiricerca",
-      "emailSubject": "",
-      "procedure": "Research assignment, GSD IINF-05/A, code 2026_IDR_DEIB_57. Novel approaches to organise and explore knowledge from large textual and graph-structured data beyond classical data management systems. Apply via PoliMi's incarichi di ricerca page. Incarichi di ricerca (art. 22-ter L. 240/2010) are a junior contract type: check in the call that PhD holders are eligible.",
-      "documents": [
-        "CV"
-      ],
-      "keywords": "topic modeling, data management, LLMs, NLP, information retrieval, knowledge graphs",
-      "source": "Bandi MUR",
-      "matchScore": 4,
-      "why": "Combines data management with NLP/LLMs over textual and graph-structured data, close to your LM-based data management work, in IINF-05."
     },
     {
       "id": "cnr-icar-ir-007-2026-cs-ai-sec",
@@ -1892,6 +1861,35 @@
       "source": "AcademicPositions (Sunday retries)",
       "matchScore": 52,
       "why": "Data integration and data-quality frameworks for AI-ready clinical data; matches data-quality interests, health domain."
+    },
+    {
+      "id": "ethz-irds-postdoc-nlp-causal-inference-violence-norms",
+      "foundOn": "2026-10-27",
+      "title": "Postdoctoral Researcher in Data Science/Political Science/Economics (NLP, causal inference, ML)",
+      "type": "Postdoc",
+      "institution": "ETH Zurich",
+      "group": "Professorship of International Relations and Data Science (IRDS)",
+      "pi": "Livia Schubiger",
+      "country": "Switzerland",
+      "city": "Zurich",
+      "callUrl": "https://jobs.ethz.ch/job/view/JOPG_ethz_KENbfPP04C48NgRHOA",
+      "reference": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "negotiable",
+      "duration": "2 years (100%)",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "https://jobs.ethz.ch/job/view/JOPG_ethz_KENbfPP04C48NgRHOA",
+      "emailSubject": "",
+      "procedure": "No deadline shown on the listing. Apply via the ETH jobs portal; check the ad for required documents.",
+      "documents": [],
+      "keywords": "NLP, text as data, causal inference, machine learning, computational social science",
+      "source": "ETH jobs (Tuesday run)",
+      "matchScore": 52,
+      "why": "Two-year ETH postdoc applying NLP and ML to large text data with causal inference; applied social-science focus rather than core LLM research."
     }
   ]
 }
