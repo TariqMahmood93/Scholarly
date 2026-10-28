@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:34:09+01:00",
+  "updatedAt": "2026-10-28T09:34:30+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -158,38 +158,6 @@
       "deadlineTz": "Europe/Brussels"
     },
     {
-      "id": "cnrs-limos-postdoc-probabilistic-logic-missing-data-2026",
-      "foundOn": "2026-10-06",
-      "title": "Postdoc: Probabilistic Logic for Missing Data – Integrating Causal and Relational Knowledge",
-      "type": "Postdoc",
-      "institution": "CNRS – LIMOS (Laboratoire d'informatique, de modélisation et d'optimisation des systèmes)",
-      "group": "",
-      "pi": "",
-      "country": "France",
-      "city": "Aubière (Clermont-Ferrand)",
-      "callUrl": "https://euraxess.ec.europa.eu/jobs/469325",
-      "reference": "",
-      "deadline": "2026-10-20",
-      "deadlineTime": "",
-      "deadlineTz": "",
-      "startDate": "",
-      "duration": "12 months",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "",
-      "emailSubject": "",
-      "procedure": "Develop methods based on probabilistic logic and graphical models for reasoning and query answering over incomplete data, exploiting a-priori causal and relational knowledge. Requires a PhD. CNRS postdocs are applied for via the CNRS job portal (emploi.cnrs.fr); one search result suggested the CNRS page may no longer be listed, so open the EURAXESS ad first to confirm it is still open and get the application link.",
-      "documents": [
-        "CV",
-        "Cover letter"
-      ],
-      "keywords": "missing data, probabilistic logic, graphical models, causal knowledge, relational data, query answering",
-      "source": "EURAXESS",
-      "matchScore": 5,
-      "why": "Missing data plus logic-based reasoning over relational data is exactly your combination of imputation and logic-based data management (Datalog, argumentation)."
-    },
-    {
       "id": "uio-postdoc-information-systems-machine-learning-2026",
       "foundOn": "2026-10-06",
       "title": "Postdoctoral Research Fellow at the interaction between information systems and machine learning",
@@ -220,37 +188,6 @@
       "source": "Jobbnorge",
       "matchScore": 4,
       "why": "A postdoc bridging information systems and ML is close to your data management meets ML profile. Norwegian positions are usually open to English speakers, but confirm the topic in the ad."
-    },
-    {
-      "id": "ucbm-ipd-genai-missing-data-multimodal-clinical-nsclc",
-      "foundOn": "2026-10-06",
-      "title": "Incarico post-doc: AI resiliente e generativa per la gestione di dati mancanti e l'augmentation di dati clinici multimodali (NSCLC)",
-      "type": "Postdoc",
-      "institution": "Università Campus Bio-Medico di Roma",
-      "group": "",
-      "pi": "",
-      "country": "Italy",
-      "city": "Rome",
-      "callUrl": "https://bandi.mur.gov.it/incarichipostdoc.php/public/fellowship/id_fellow/318444",
-      "reference": "",
-      "deadline": "2026-10-20",
-      "deadlineTime": "",
-      "deadlineTz": "Europe/Rome",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://www.unicampus.it/ateneo/concorsi/incarichi-post-doc/",
-      "emailSubject": "",
-      "procedure": "Incarico post-doc (art. 22-bis), GSD IINF-05/A. Analyse completeness of multimodal clinical datasets and develop generative and transformer-based models for missing modalities, synthetic data and dataset balancing. Apply via the university's post-doc calls page; check the call for documents and closing time.",
-      "documents": [
-        "CV"
-      ],
-      "keywords": "missing data, generative AI, transformers, multimodal clinical data, data augmentation",
-      "source": "Bandi MUR",
-      "matchScore": 4,
-      "why": "Missing-modality handling and synthetic data with transformer-based generative models matches your imputation work, in your IINF-05 sector, but applied to clinical lung-cancer data."
     },
     {
       "id": "cnr-icar-ir-007-2026-cs-ai-sec",
@@ -313,37 +250,6 @@
       "source": "Bandi MUR",
       "matchScore": 3,
       "why": "LLM/NLP research in a strong Italian ERC group, with a trustworthiness angle; the focus on subjective tasks and user perception is further from data quality."
-    },
-    {
-      "id": "unife-ipd-conversational-ai-logic-guardrails",
-      "foundOn": "2026-10-06",
-      "title": "Incarico post-doc: I.A. per il retail – sistemi conversazionali con guardrail basati su logica classica e temporale",
-      "type": "Postdoc",
-      "institution": "Università di Ferrara",
-      "group": "",
-      "pi": "Prof. Guido Sciavicco",
-      "country": "Italy",
-      "city": "Ferrara",
-      "callUrl": "https://bandi.mur.gov.it/incarichipostdoc.php/public/fellowship/id_fellow/318383",
-      "reference": "",
-      "deadline": "2026-10-20",
-      "deadlineTime": "",
-      "deadlineTz": "Europe/Rome",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "http://www.unife.it/concorsi",
-      "emailSubject": "",
-      "procedure": "Incarico post-doc (art. 22-bis), GSD INFO-01/A, scientific supervisor Prof. Guido Sciavicco. R&D on AI for retail: conversational systems and their control through guardrails based on classical and temporal logic. Apply via unife.it/concorsi.",
-      "documents": [
-        "CV"
-      ],
-      "keywords": "conversational AI, LLM guardrails, classical and temporal logic, retail",
-      "source": "Bandi MUR",
-      "matchScore": 3,
-      "why": "Combines LLM-based conversational systems with logic-based control, matching your LLM + logic-based AI mix."
     },
     {
       "id": "inria-tyrex-postdoc-neurosymbolic-relational-gnn-2026",
