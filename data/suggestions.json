@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T09:34:33+01:00",
+  "updatedAt": "2026-11-01T09:33:58+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -2103,6 +2103,73 @@
       "source": "Leverhulme Trust",
       "matchScore": 7,
       "why": "Prestigious 3-year independent fellowship in the UK, open to computing and AI."
+    },
+    {
+      "id": "ercim-alain-bensoussan-fellowship-apr-2027",
+      "foundOn": "2026-11-01",
+      "title": "ERCIM \"Alain Bensoussan\" Fellowship Programme (April 2027 call)",
+      "type": "Research Fellow",
+      "institution": "ERCIM (hosted at a member institute: CNR, Inria, FORTH, CWI, SINTEF, etc.)",
+      "group": "",
+      "pi": "",
+      "country": "Europe (multiple)",
+      "city": "",
+      "callUrl": "https://fellowship.ercim.eu/",
+      "reference": "",
+      "deadline": "2027-04-30",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "",
+      "duration": "",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Postdoctoral fellowship at an ERCIM member institute. Calls close twice a year (30 April and 30 September). Eligibility: PhD within the last 8 years (or final thesis year) and fluent English. Pick a host institute and topic, then apply through the fellowship.ercim.eu online system; questions to the address on the ERCIM page.",
+      "documents": [
+        "CV",
+        "Research statement",
+        "Publication list",
+        "Reference letters"
+      ],
+      "keywords": "computer science, data management, AI, NLP, fellowship",
+      "source": "ERCIM",
+      "matchScore": 7,
+      "why": "Open-topic CS postdoc fellowship across European institutes (incl. CNR in Italy and Inria); good route for data-management and LLM research."
+    },
+    {
+      "id": "helsinki-postdoc-language-technology-digital-humanities-multimodal-corpora-2026",
+      "foundOn": "2026-11-01",
+      "title": "Postdoctoral Researcher in Language Technology or Digital Humanities",
+      "type": "Postdoc",
+      "institution": "University of Helsinki – Faculty of Humanities",
+      "group": "Multimodality Research Group",
+      "pi": "",
+      "country": "Finland",
+      "city": "Helsinki",
+      "callUrl": "https://www.timeshighereducation.com/unijobs/listing/417006/postdoctoral-researcher-in-language-technology-or-digital-humanities",
+      "reference": "",
+      "deadline": "2026-11-20",
+      "deadlineTime": "23:59",
+      "deadlineTz": "Europe/Helsinki",
+      "startDate": "January 2027",
+      "duration": "28 months",
+      "salary": "4005–4140 € / month",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Build several large multimodal corpora (page-based and audiovisual media) annotated in multiple cross-referenced layers. PhD in language technology, digital humanities or related field. Apply through the University of Helsinki recruitment system linked from the ad.",
+      "documents": [
+        "CV",
+        "Cover letter",
+        "Publication list"
+      ],
+      "keywords": "language technology, corpora, annotation, multimodal data",
+      "source": "Times Higher Education Unijobs",
+      "matchScore": 6,
+      "why": "NLP/language-technology postdoc centred on building and annotating large corpora, which matches data-curation and quality skills."
     }
   ]
 }
