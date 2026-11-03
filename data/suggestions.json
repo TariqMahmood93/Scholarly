@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T09:38:50+01:00",
+  "updatedAt": "2026-11-03T09:33:54+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -2241,6 +2241,72 @@
       "source": "jobs.ch / LinkedIn",
       "matchScore": 6,
       "why": "Two LLM/NLP postdocs starting early 2027 in Switzerland, English working language."
+    },
+    {
+      "id": "mpg-weizmann-postdoc-programme-round7-2026",
+      "foundOn": "2026-11-03",
+      "title": "Max Planck-Weizmann Postdoctoral Programme (7th round)",
+      "type": "Research Fellow",
+      "institution": "Max Planck Society & Weizmann Institute of Science",
+      "group": "",
+      "pi": "",
+      "country": "Germany / Israel",
+      "city": "",
+      "callUrl": "https://www.mpg.de/20566192/max-planck-weizmann-postdoc-programme",
+      "reference": "",
+      "deadline": "2026-12-21",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "March–September 2027",
+      "duration": "4 years (2 at an MPI, 2 at Weizmann)",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Joint four-year postdoc; computer science is listed among eligible fields. PhD obtained no more than 4 years ago. Needs a detailed CV, a research statement (max 2 pages) with a plan for splitting time between the two institutes, at least three recommendation letters (one from the PhD advisor) and support letters from host researchers at both institutes. Agree hosts first, then apply via the programme page.",
+      "documents": [
+        "CV",
+        "Research statement",
+        "3 recommendation letters",
+        "Host support letters"
+      ],
+      "keywords": "fellowship, computer science, AI, Max Planck",
+      "source": "Max Planck Society",
+      "matchScore": 6,
+      "why": "Prestigious long postdoc with an MPI computer-science host (e.g. MPI-SWS or MPI-INF), open to data/LLM research; requires securing two hosts."
+    },
+    {
+      "id": "wur-postdoc-ai-decision-support-data-integration-2026",
+      "foundOn": "2026-11-03",
+      "title": "Postdoc AI-Enabled Decision Support and Data Integration",
+      "type": "Postdoc",
+      "institution": "Wageningen University & Research",
+      "group": "",
+      "pi": "",
+      "country": "Netherlands",
+      "city": "Wageningen",
+      "callUrl": "https://www.academictransfer.com/en/jobs/?set_language=nl%2F",
+      "reference": "",
+      "deadline": "2026-12-01",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "",
+      "duration": "",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Develop methods and architectures that integrate heterogeneous data and predictive models into adaptive decision-support systems for sustainable crop protection. Find the vacancy on AcademicTransfer or the WUR vacancy page and apply there; eligibility and contract details are not yet confirmed.",
+      "documents": [
+        "CV",
+        "Cover letter"
+      ],
+      "keywords": "data integration, heterogeneous data, decision support, AI",
+      "source": "AcademicTransfer",
+      "matchScore": 6,
+      "why": "Core heterogeneous data integration work combined with AI, matching your data-management background."
     }
   ]
 }
