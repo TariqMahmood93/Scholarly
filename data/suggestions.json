@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T09:33:59+01:00",
+  "updatedAt": "2026-11-07T09:35:24+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -1312,35 +1312,6 @@
       "source": "jobs.ac.uk",
       "matchScore": 5,
       "why": "LLM evaluation and safety work matches your trustworthy-AI and LLM fine-tuning experience; applied in the health domain."
-    },
-    {
-      "id": "itu-postdoc-computational-social-science-llm-annotation-2026",
-      "foundOn": "2026-10-22",
-      "title": "Postdoc in Computational Social Science (LLMs for annotation and validation of complex data)",
-      "type": "Postdoc",
-      "institution": "IT University of Copenhagen",
-      "group": "Networks, Data and Society (NERDS)",
-      "pi": "Luca Rossi",
-      "country": "Denmark",
-      "city": "Copenhagen",
-      "callUrl": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181914&DepartmentId=3439&MediaId=5",
-      "reference": "",
-      "deadline": "2026-10-30",
-      "deadlineTime": "23:59",
-      "deadlineTz": "Europe/Copenhagen",
-      "startDate": "January 2027 or soon after",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=119&ProjectId=181914&DepartmentId=3439&MediaId=5",
-      "emailSubject": "",
-      "procedure": "Apply through the ITU recruitment portal (Talentech). Deadline confirmed on the ITU vacancies list. Check the full advert for salary, duration and required documents.",
-      "documents": [],
-      "keywords": "computational social science, LLM annotation, data validation, social media data",
-      "source": "ITU vacancies (Nordics rotation)",
-      "matchScore": 65,
-      "why": "Uses LLMs for annotation and validation of complex data, which fits the LLM and data-quality profile; applied social-science setting."
     },
     {
       "id": "unina-ipd-geo-ai-urban-monitoring-319307",
@@ -2738,6 +2709,70 @@
       "source": "AcademicTransfer",
       "matchScore": 5,
       "why": "Applied LLM/content-analysis postdoc; social-science framing, weaker fit."
+    },
+    {
+      "id": "turing-senior-ra-ai-evaluation-assurance-2026",
+      "foundOn": "2026-11-07",
+      "title": "Senior / Research Associate, AI Evaluation and Assurance",
+      "type": "Researcher / Research Scientist",
+      "institution": "The Alan Turing Institute – Fundamental Research",
+      "group": "",
+      "pi": "",
+      "country": "United Kingdom",
+      "city": "London",
+      "callUrl": "https://portal.careers.turing.ac.uk/",
+      "reference": "",
+      "deadline": "2026-11-29",
+      "deadlineTime": "",
+      "deadlineTz": "Europe/London",
+      "startDate": "",
+      "duration": "",
+      "salary": "£46,415–£52,494 (RA) / £57,000–£59,000 (Senior RA)",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Permanent RA/Senior RA role on AI evaluation and assurance (advertised 2–29 Nov 2026). Find \"Senior / Research Associate, AI Evaluation and Assurance\" on the Turing careers portal and apply there; read the full advert for duties and requirements.",
+      "documents": [
+        "CV",
+        "Cover letter"
+      ],
+      "keywords": "AI evaluation, assurance, LLM benchmarking, trustworthy AI",
+      "source": "Alan Turing Institute",
+      "matchScore": 7,
+      "why": "Evaluation and assurance of AI systems (incl. LLMs) at the UK national AI institute; permanent post."
+    },
+    {
+      "id": "birmingham-pdrf-language-machines-ahrc-2026",
+      "foundOn": "2026-11-07",
+      "title": "2 x Postdoctoral Research Fellows, Language Machines Project (AHRC)",
+      "type": "Postdoc",
+      "institution": "University of Birmingham",
+      "group": "",
+      "pi": "Dr Rebecca Roach",
+      "country": "United Kingdom",
+      "city": "Birmingham",
+      "callUrl": "https://www.jobs.ac.uk/categories/postdoctoral-research-fellow-jobs/1",
+      "reference": "",
+      "deadline": "2026-11-22",
+      "deadlineTime": "",
+      "deadlineTz": "Europe/London",
+      "startDate": "",
+      "duration": "",
+      "salary": "£36,636–£46,049 (Grade 7)",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Two fixed-term Grade 7 posts on the 3-year AHRC project \"Language Machines: the Arts & Humanities' Contributions to Artificial Intelligence Innovation\". Find the ad on jobs.ac.uk (placed 3 Nov) or the Birmingham careers site and apply there; confirm the exact closing date.",
+      "documents": [
+        "CV",
+        "Supporting statement"
+      ],
+      "keywords": "language machines, LLMs, humanities and AI, language technology",
+      "source": "jobs.ac.uk",
+      "matchScore": 4,
+      "why": "LLM-related project with a humanities angle; weaker technical fit, included for completeness."
     }
   ]
 }
