@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T09:35:24+01:00",
+  "updatedAt": "2026-11-08T09:33:48+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -551,38 +551,6 @@
       "source": "Inria jobs",
       "matchScore": 3,
       "why": "LLMs applied to cybersecurity (one of your secondary interests); the networking/security side is new for you."
-    },
-    {
-      "id": "inria-2026-10503-wimmics-kg-pest-regulation",
-      "foundOn": "2026-10-10",
-      "title": "Post-doc: Building, improving and using a knowledge graph for pest regulation in agronomy",
-      "type": "Postdoc",
-      "institution": "Inria – WIMMICS team",
-      "group": "",
-      "pi": "",
-      "country": "France",
-      "city": "Sophia Antipolis",
-      "callUrl": "https://jobs.inria.fr/public/classic/en/offres?filtre=posts-doc#2026-10503",
-      "reference": "2026-10503",
-      "deadline": "2026-10-31",
-      "deadlineTime": "",
-      "deadlineTz": "Europe/Paris",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://jobs.inria.fr/public/classic/en/offres?filtre=posts-doc#2026-10503",
-      "emailSubject": "",
-      "procedure": "Postdoc in the WIMMICS team on building, improving and exploiting a knowledge graph for agronomy (pest regulation). Find offer 2026-10503 in the Inria postdoc list for the description, requirements and application.",
-      "documents": [
-        "CV",
-        "Cover letter"
-      ],
-      "keywords": "knowledge graphs, semantic web, data integration, agronomy",
-      "source": "Inria jobs",
-      "matchScore": 3,
-      "why": "Knowledge-graph construction and data quality/integration fits your KG and data-management interests; the agronomy domain is new."
     },
     {
       "id": "uniroma1-idr-11-2026-responsible-nl-cloud-ops",
@@ -2773,6 +2741,73 @@
       "source": "jobs.ac.uk",
       "matchScore": 4,
       "why": "LLM-related project with a humanities angle; weaker technical fit, included for completeness."
+    },
+    {
+      "id": "bocconi-assistant-professor-computing-sciences-sept2027-478634",
+      "foundOn": "2026-11-08",
+      "title": "Assistant Professor, Department of Computing Sciences (start 1 Sep 2027; INFO-01/A, IINF-05/A, PHYS-02/A)",
+      "type": "Lecturer / Assistant Professor",
+      "institution": "Università Bocconi",
+      "group": "",
+      "pi": "",
+      "country": "Italy",
+      "city": "Milan",
+      "callUrl": "https://euraxess.ec.europa.eu/jobs/478634",
+      "reference": "",
+      "deadline": "2027-01-11",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "1 September 2027",
+      "duration": "6-year contract (art. 24 L. 240/2010)",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Six-year Assistant Professor contract in the Computing Sciences department, open to INFO-01/A Informatics, IINF-05/A Information Processing Systems and PHYS-02/A. This is a separate call from the INFO-01/A Assistant Professor call closing 4 Dec 2026. Open the EURAXESS ad and apply through Bocconi's portal as instructed.",
+      "documents": [
+        "CV",
+        "Research statement",
+        "Publication list",
+        "Reference letters"
+      ],
+      "keywords": "assistant professor, computing sciences, AI, NLP, data",
+      "source": "EURAXESS",
+      "matchScore": 7,
+      "why": "Second Bocconi Computing Sciences assistant professorship (Sept 2027 start); strong NLP/ML department in Milan."
+    },
+    {
+      "id": "tuebingen-ai-postdoc-ai-data-provenance-quality-minerva-openeurollm",
+      "foundOn": "2026-11-08",
+      "title": "Postdoctoral Researcher for AI Data Provenance, Quality and Maintenance (EU projects MINERVA, ELLIOT, OpenEuroLLM)",
+      "type": "Postdoc",
+      "institution": "Tübingen AI Center / University of Tübingen",
+      "group": "",
+      "pi": "",
+      "country": "Germany",
+      "city": "Tübingen",
+      "callUrl": "https://tuebingen.ai/careers/postdoctoral-researcher-for-ai-data-provenance-quality-and-maintenance-eu-project-minerva-eu-project-elliot-eu-project-open-euro-llm-e-13-tv-l-100-mfd",
+      "reference": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "",
+      "duration": "",
+      "salary": "E13 TV-L, 100%",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Postdoc on data quality, sourcing and provenance for training European large-scale foundation models (MINERVA, ELLIOT, OpenEuroLLM). No deadline found in the search snippets; open the Tübingen AI Center careers page to check whether it is still open and how to apply.",
+      "documents": [
+        "CV",
+        "Cover letter",
+        "Publication list"
+      ],
+      "keywords": "LLM training data, data quality, data provenance, foundation models, OpenEuroLLM",
+      "source": "Tübingen AI Center",
+      "matchScore": 8,
+      "why": "Data quality and provenance for European LLM training is an almost exact match to your data-quality + LLM profile."
     }
   ]
 }
