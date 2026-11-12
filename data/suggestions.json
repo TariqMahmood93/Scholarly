@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:34:13+01:00",
+  "updatedAt": "2026-11-12T09:33:25+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -125,39 +125,6 @@
       "source": "ELLIS",
       "matchScore": 4,
       "why": "Trustworthy ML with fairness and robustness plus the symbolic-AI/logic + ML interface matches your fairness-aware imputation and logic-based data management work; a strong publication record is expected."
-    },
-    {
-      "id": "inria-tyrex-postdoc-neurosymbolic-relational-gnn-2026",
-      "foundOn": "2026-10-07",
-      "title": "Post-Doctoral Research Visit: Neurosymbolic Relational Graph Neural Networks",
-      "type": "Postdoc",
-      "institution": "Inria Grenoble – TYREX team (CNRS LIG / UGA / Grenoble INP)",
-      "group": "",
-      "pi": "",
-      "country": "France",
-      "city": "Montbonnot (Grenoble)",
-      "callUrl": "https://euraxess.ec.europa.eu/jobs/470558",
-      "reference": "",
-      "deadline": "2026-11-04",
-      "deadlineTime": "",
-      "deadlineTz": "Europe/Paris",
-      "startDate": "",
-      "duration": "1 year, extendable to 2 years",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://tyrex.inria.fr/jobs.html",
-      "emailSubject": "",
-      "procedure": "TYREX works on data management, symbolic reasoning and neuro-symbolic ML. The postdoc is on end-to-end deep learning over relational databases: tables become heterogeneous graphs (rows as nodes) and are learned with relational GNNs, with a neuro-symbolic angle. TYREX advertises two postdocs (neuro-symbolic learning & reasoning; relational learning), flexible start in 2026. Apply via the Inria job offer linked from EURAXESS / the TYREX jobs page.",
-      "documents": [
-        "CV",
-        "Cover letter",
-        "Publication list"
-      ],
-      "keywords": "relational deep learning, graph neural networks, relational databases, neuro-symbolic AI",
-      "source": "EURAXESS",
-      "matchScore": 5,
-      "why": "Deep learning over relational databases with GNNs and logic is a direct fit for your data management + ML + GNN + Datalog profile."
     },
     {
       "id": "epfl-ai-center-swiss-ai-postdoc-fellowships-call3",
@@ -1148,40 +1115,6 @@
       "source": "jobs.ac.uk",
       "matchScore": 6,
       "why": "Postdoc-level NLP/ML post in a strong UK NLP group; uses your NLP and LLM skills, UK is in your target countries."
-    },
-    {
-      "id": "oxford-postdoc-ai-safety-mental-health-2026",
-      "foundOn": "2026-10-20",
-      "title": "Postdoctoral Researcher: AI Safety in Mental Health",
-      "type": "Postdoc",
-      "institution": "University of Oxford – Department of Psychiatry",
-      "group": "",
-      "pi": "",
-      "country": "United Kingdom",
-      "city": "Oxford",
-      "callUrl": "https://www.jobs.ac.uk/job/DTE954/postdoctoral-researcher-ai-safety-in-mental-health",
-      "reference": "",
-      "deadline": "2026-11-04",
-      "deadlineTime": "12:00",
-      "deadlineTz": "Europe/London",
-      "startDate": "",
-      "duration": "",
-      "salary": "£39,424 to £47,779 per annum (Grade 7)",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "",
-      "emailSubject": "",
-      "procedure": "Postdoc on safety evaluation of LLM-based tools in mental health: validating automated (LLM) evaluations against human ratings; LLM fine-tuning experience is desirable. Apply through the Oxford recruitment portal linked from jobs.ac.uk by midday on 4 Nov 2026.",
-      "documents": [
-        "CV",
-        "Supporting statement",
-        "Publication list",
-        "Referees"
-      ],
-      "keywords": "LLM evaluation, AI safety, trustworthy AI, fine-tuning",
-      "source": "jobs.ac.uk",
-      "matchScore": 5,
-      "why": "LLM evaluation and safety work matches your trustworthy-AI and LLM fine-tuning experience; applied in the health domain."
     },
     {
       "id": "unina-ipd-geo-ai-urban-monitoring-319307",
@@ -2983,6 +2916,35 @@
       "source": "jobs.ac.uk",
       "matchScore": 5,
       "why": "Permanent lectureship on AI/LLM-augmented software engineering; Lecturer level is open to early-career applicants."
+    },
+    {
+      "id": "bocconi-dcs-ap-1020-info01a",
+      "foundOn": "2026-11-12",
+      "title": "Assistant Professor – INFO-01/A Informatics (Department of Computing Sciences, call ID 1020)",
+      "type": "Lecturer / Assistant Professor",
+      "institution": "Università Bocconi",
+      "group": "Department of Computing Sciences",
+      "pi": "",
+      "country": "Italy",
+      "city": "Milano",
+      "callUrl": "https://jobmarket.unibocconi.eu/?type=&dep=DCS",
+      "reference": "ID 1020 (G.U. n. 85, 03/11/2026)",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "deadlineTz": "Europe/Rome",
+      "startDate": "",
+      "duration": "",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "",
+      "documents": [],
+      "keywords": "assistant professor, computing sciences, INFO-01/A, AI, data",
+      "source": "Bocconi Job Market",
+      "matchScore": 5,
+      "why": "Open assistant-professor call in computer science at Bocconi (English-language institution with an active NLP/ML group); competitive, but within the early-career faculty track."
     }
   ]
 }
