@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:34:03+01:00",
+  "updatedAt": "2026-11-24T09:34:12+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -94,38 +94,6 @@
       "source": "ELLIS",
       "matchScore": 4,
       "why": "Trustworthy ML with fairness and robustness plus the symbolic-AI/logic + ML interface matches your fairness-aware imputation and logic-based data management work; a strong publication record is expected."
-    },
-    {
-      "id": "fwo-junior-postdoctoral-fellowship-2027",
-      "foundOn": "2026-10-07",
-      "title": "FWO Junior Postdoctoral Fellowship (call 2027)",
-      "type": "Research Fellow",
-      "institution": "Research Foundation – Flanders (FWO), at a Flemish university",
-      "group": "",
-      "pi": "",
-      "country": "Belgium",
-      "city": "",
-      "callUrl": "https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/",
-      "reference": "",
-      "deadline": "2026-11-16",
-      "deadlineTime": "17:00",
-      "deadlineTz": "Europe/Brussels",
-      "startDate": "1 Oct or 1 Nov 2027",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "",
-      "emailSubject": "",
-      "procedure": "Call opened 17 Sep 2026 and closes 16 Nov 2026 at 17:00. Needs a supervisor at a Flemish host institution (max five applications per supervisor). Preselection March 2027, interviews April–May 2027, results 13 May 2027. Check the eligibility and mobility rules in the FWO regulations.",
-      "documents": [
-        "CV",
-        "Research statement / proposal"
-      ],
-      "keywords": "fellowship, independent research, Flanders",
-      "source": "FWO",
-      "matchScore": 3,
-      "why": "A 3-year independent fellowship in Belgium; it needs a Flemish host (e.g. KU Leuven or UGent data/NLP groups) agreed before the deadline."
     },
     {
       "id": "ethz-sml-postdoc-trustworthy-ml-2026",
@@ -458,39 +426,6 @@
       "why": "The LLM/Knowledge track (RAG + knowledge graphs) fits your LLM, FAISS/RAG and KG skills; RL track matches your multi-agent RL background."
     },
     {
-      "id": "unimc-idr-ai-agents-llm-rag-knowledge-management-2026",
-      "foundOn": "2026-10-15",
-      "title": "Incarico di ricerca: Sistemi di agenti di IA specializzati, trasparenti ed etici per la formazione e la gestione della conoscenza",
-      "type": "Other",
-      "institution": "Università di Macerata",
-      "group": "",
-      "pi": "",
-      "country": "Italy",
-      "city": "Rome",
-      "callUrl": "https://bandi.mur.gov.it/incarichidiricerca.php/public/fellowship/id_fellow/318922",
-      "reference": "",
-      "deadline": "2026-11-16",
-      "deadlineTime": "13:00",
-      "deadlineTz": "Europe/Rome",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://www.unimc.it/it/ateneo/bandi-e-concorsi/finaziamenti-ricerca/incarichi-di-ricerca-art-22-ter-l-240-2010",
-      "emailSubject": "",
-      "procedure": "Incarico di ricerca (art. 22-ter L. 240/2010), GSD IINF-05/A, based in Rome. Design and test cooperative multi-agent AI systems with LLMs, RAG and personalisation for education and knowledge management, focusing on quality, traceability and verifiability of generated information. Art. 22-ter contracts often target holders of a master's degree, so check in the bando that PhD holders are eligible; apply as the UniMC page instructs before 16 Nov 2026, 13:00.",
-      "documents": [
-        "CV",
-        "Publication list",
-        "Documents listed in the bando"
-      ],
-      "keywords": "LLM agents, RAG, multi-agent systems, verifiability, IINF-05/A",
-      "source": "Bandi MUR",
-      "matchScore": 8,
-      "why": "LLMs + RAG with explicit emphasis on quality and verifiability of generated information, in IINF-05/A, which matches your LLM/RAG and trustworthy-AI profile."
-    },
-    {
       "id": "usi-idsia-saturna-postdoc-nlp-2026",
       "foundOn": "2026-10-15",
       "title": "Postdoc in NLP (SATURNA project) at IALS and IDSIA",
@@ -554,38 +489,6 @@
       "source": "LIST job offers / Nature Careers",
       "matchScore": 6,
       "why": "RAG + LLMs with symbolic reasoning matches your LLM, FAISS/RAG and logic-based AI (Datalog) background; an engineer rather than a postdoc title."
-    },
-    {
-      "id": "inail-ai-agents-occupational-safety-llm-rag-2026",
-      "foundOn": "2026-10-18",
-      "title": "AI Agents for Occupational Safety: Training for Injury Prevention, Internal Communication and Marketing",
-      "type": "Other",
-      "institution": "Inail (Italian National Institute for Insurance against Accidents at Work)",
-      "group": "",
-      "pi": "",
-      "country": "Italy",
-      "city": "Rome",
-      "callUrl": "https://euraxess.ec.europa.eu/jobs/473253",
-      "reference": "",
-      "deadline": "2026-11-16",
-      "deadlineTime": "13:00",
-      "deadlineTz": "Europe/Brussels",
-      "startDate": "",
-      "duration": "",
-      "salary": "",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "",
-      "emailSubject": "",
-      "procedure": "Design, build and test conversational AI agents on open-source European LLMs with advanced RAG over layered regulatory datasets (Legislative Decree 81/2008, EU directives, sector protocols) for personalised injury-prevention training and safety communication. EURAXESS lists it for R1-R4 under business economics, so check the contract type and requirements in the full call (likely linked to the Inail-UniMC \"Sicura AI\" BRIC project); Italian may be useful for the regulatory corpus.",
-      "documents": [
-        "CV",
-        "Publication list"
-      ],
-      "keywords": "LLM agents, RAG, regulatory knowledge, conversational AI",
-      "source": "EURAXESS",
-      "matchScore": 6,
-      "why": "LLM + RAG agents over structured regulatory knowledge fits your LLM/RAG skills; contract type and language needs to be checked."
     },
     {
       "id": "cispa-cristal-lab-postdoc-trustworthy-ai-llm-alignment",
@@ -3232,6 +3135,35 @@
       "source": "EuroScienceJobs",
       "matchScore": 5,
       "why": "Option to work on the theory of scaling laws for language models; theory-heavy, so a partial fit."
+    },
+    {
+      "id": "ethz-mtc-postdoc-nlp-swiss-media",
+      "foundOn": "2026-11-24",
+      "title": "Postdoctoral Researcher in Natural Language Processing (Media Technology Center)",
+      "type": "Postdoc",
+      "institution": "ETH Zurich",
+      "group": "Media Technology Center (MTC)",
+      "pi": "Dr. Severin Klingler (contact)",
+      "country": "Switzerland",
+      "city": "Zurich",
+      "callUrl": "https://jobs.ethz.ch/job/view/JOPG_ethz_EgH7KpIva0HtUxknz7",
+      "reference": "",
+      "deadline": "",
+      "deadlineTime": "",
+      "deadlineTz": "",
+      "startDate": "",
+      "duration": "",
+      "salary": "",
+      "method": "email",
+      "applyEmail": "",
+      "applyUrl": "",
+      "emailSubject": "",
+      "procedure": "Per the posting, inquiries go by email to Dr. Severin Klingler (address on the ETH job page); no fixed deadline listed.",
+      "documents": [],
+      "keywords": "NLP, LLMs, multilingual summarisation, news/media, applied industry projects",
+      "source": "ETH Zurich jobs",
+      "matchScore": 6,
+      "why": "Applied NLP/LLM postdoc (e.g. multilingual news summarisation) with Swiss media partners; ACL/EMNLP profile wanted; a Swiss national language is a plus, not a requirement."
     }
   ]
 }
