@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:34:22+01:00",
+  "updatedAt": "2026-11-28T09:33:42+01:00",
   "suggestions": [
     {
       "id": "tud-scads-postdoc-llm-nlp-kg-graphml-2026",
@@ -562,35 +562,6 @@
       "why": "Prestigious, field-open fellowship you are eligible for (PhD 2024); lets you design your own data-quality/LLM project with a German host such as a DB or NLP group."
     },
     {
-      "id": "unina-ipd-geo-ai-urban-monitoring-319307",
-      "foundOn": "2026-10-22",
-      "title": "Incarico post-doc: GEO-AI processes and techniques for monitoring urban critical areas and resilient urban development",
-      "type": "Postdoc",
-      "institution": "Università degli Studi di Napoli Federico II",
-      "group": "",
-      "pi": "",
-      "country": "Italy",
-      "city": "Napoli",
-      "callUrl": "https://bandi.mur.gov.it/incarichipostdoc.php/public/fellowship/id_fellow/319307",
-      "reference": "MUR id_fellow 319307 (INFO-01/A)",
-      "deadline": "2026-11-20",
-      "deadlineTime": "12:00",
-      "deadlineTz": "Europe/Rome",
-      "startDate": "",
-      "duration": "12 months",
-      "salary": "EUR 40,824.16 (gross)",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "https://www.unina.it/it/ateneo/concorsi-e-borse-di-studio/incarichi-di-ricerca",
-      "emailSubject": "",
-      "procedure": "Art. 22-bis incarico post-doc. Read the full bando on the UniNA page for documents and submission method.",
-      "documents": [],
-      "keywords": "GeoAI, GIS, AI methods, urban monitoring, INFO-01/A",
-      "source": "Bandi MUR (collector)",
-      "matchScore": 58,
-      "why": "INFO-01/A post-doc applying AI methods to geospatial data; Italian sector match, but the domain is GIS rather than LLMs."
-    },
-    {
       "id": "tartu-ml-research-fellow-trustworthy-ai-rolling",
       "foundOn": "2026-10-22",
       "title": "Research Fellow of Machine Learning (uncertainty in ML, trustworthy AI)",
@@ -1104,39 +1075,6 @@
       "source": "ERCIM",
       "matchScore": 7,
       "why": "Open-topic CS postdoc fellowship across European institutes (incl. CNR in Italy and Inria); good route for data-management and LLM research."
-    },
-    {
-      "id": "helsinki-postdoc-language-technology-digital-humanities-multimodal-corpora-2026",
-      "foundOn": "2026-11-01",
-      "title": "Postdoctoral Researcher in Language Technology or Digital Humanities",
-      "type": "Postdoc",
-      "institution": "University of Helsinki – Faculty of Humanities",
-      "group": "Multimodality Research Group",
-      "pi": "",
-      "country": "Finland",
-      "city": "Helsinki",
-      "callUrl": "https://www.timeshighereducation.com/unijobs/listing/417006/postdoctoral-researcher-in-language-technology-or-digital-humanities",
-      "reference": "",
-      "deadline": "2026-11-20",
-      "deadlineTime": "23:59",
-      "deadlineTz": "Europe/Helsinki",
-      "startDate": "January 2027",
-      "duration": "28 months",
-      "salary": "4005–4140 € / month",
-      "method": "portal",
-      "applyEmail": "",
-      "applyUrl": "",
-      "emailSubject": "",
-      "procedure": "Build several large multimodal corpora (page-based and audiovisual media) annotated in multiple cross-referenced layers. PhD in language technology, digital humanities or related field. Apply through the University of Helsinki recruitment system linked from the ad.",
-      "documents": [
-        "CV",
-        "Cover letter",
-        "Publication list"
-      ],
-      "keywords": "language technology, corpora, annotation, multimodal data",
-      "source": "Times Higher Education Unijobs",
-      "matchScore": 6,
-      "why": "NLP/language-technology postdoc centred on building and annotating large corpora, which matches data-curation and quality skills."
     },
     {
       "id": "helsinki-postdoc-language-technology-know-ai-dalai-fin-2026",
@@ -3120,6 +3058,35 @@
       "source": "EURAXESS",
       "matchScore": 5,
       "why": "Independent ML/AI postdoc expected to publish at top ML venues and shape a research area; group focus not stated in the listing."
+    },
+    {
+      "id": "eux-483382",
+      "foundOn": "2026-11-28",
+      "title": "Assistant Professor in Computer Science with a specialisation in Natural Language Processing",
+      "type": "Lecturer / Assistant Professor",
+      "institution": "Linköping University",
+      "group": "Department of Computer and Information Science (IDA), AIICS – NLP unit",
+      "pi": "",
+      "country": "Sweden",
+      "city": "Linköping",
+      "callUrl": "https://euraxess.ec.europa.eu/jobs/483382",
+      "reference": "LiU-2026-04987",
+      "deadline": "2027-01-06",
+      "deadlineTime": "12:00",
+      "deadlineTz": "Europe/Brussels",
+      "startDate": "",
+      "duration": "",
+      "salary": "",
+      "method": "portal",
+      "applyEmail": "",
+      "applyUrl": "https://liu.se/en/work-at-liu/vacancies/30316",
+      "emailSubject": "",
+      "procedure": "Apply via the Linköping University vacancy page (applyUrl).",
+      "documents": [],
+      "keywords": "natural language processing, LLMs, career-development assistant professorship, research independence",
+      "source": "EURAXESS",
+      "matchScore": 6,
+      "why": "Career-development (fixed-term) assistant professorship in NLP aimed at building research independence; good step after postdoc for an LLM/NLP profile."
     }
   ]
 }
